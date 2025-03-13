@@ -27,4 +27,4 @@ This application is written in Rust, and uses libraries such as;
 
 - More weather elements
 - Prettier UI
-- Comment code :p
+- Better code comments :p
