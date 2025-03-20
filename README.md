@@ -2,7 +2,7 @@
 
 Weather application built on Rust
 
-Enter in a zip code, city name, or address to get local info on the current weather. 
+Launch Weather-app.exe, Enter in a zip code, city name, or address to get local info on the current weather. 
 Client returns values such as Temperature, Wind speed, Humidity, and longitude and latitude.
 
 The purpose of this application is to learn Rust, and to make a functional and useful program, with the use of API's and website fetching.
